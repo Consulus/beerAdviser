@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Beer Adviser</string>
+    <string name="find_beer">Подобрать ПИВО</string>
+    <string name="beer_types">Виды ПИВА</string>
+    <string name="brands">ПИВО не выбрано</string>
+    <string-array name="beer_colors">
+        <item>Лёгкое</item>
+        <item>Амбер</item>
+        <item>Коричневое</item>
+        <item>Тёмное</item>
+    </string-array>
+</resources>
